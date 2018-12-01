@@ -1,0 +1,49 @@
+{
+	"profile": {
+		"img": "peacock.jpg",
+		"Name": "Umadevi",
+		"Roll": "16NN1A1215",
+		"College": "Vignan Nirula",
+		"Place": "Guntur"
+	},
+	"Career": {
+		"info": "I want to succeed in a stimulating and challenging environment that will provide me with advancement oppurtunities."
+	},
+	"Education": [{
+			"Degree": "B.Tech",
+			"Institution": "Vignan",
+			"YearOfPassing": "2020"
+		},
+		{
+			"Degree": "Intermediate",
+			"Institution": "Sri Chaitanya",
+			"YearOfPassing": "2016"
+		},
+		{
+			"Degree": "CBSE",
+			"Institution": "Durga Public School",
+			"YearOfPassing": "2014"
+		}
+	],
+	"Languages": [{
+			"lang": "Telugu"
+		},
+		{
+			"lang": "English"
+		}
+	],
+
+	"Skills": [{
+			"title": "Platform",
+			"content": "windows,linux"
+		},
+		{
+			"title": "Programming Languages",
+			"content": "C,C++,java"
+		},
+		{
+			"title": "Database",
+			"content": "MySQL"
+		}
+	]
+}
